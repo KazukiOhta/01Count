@@ -14,6 +14,7 @@
 		CF77E117223A8BC30081421C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CF77E115223A8BC30081421C /* LaunchScreen.storyboard */; };
 		CF77E122223A8BC30081421C /* CountTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF77E121223A8BC30081421C /* CountTests.swift */; };
 		CF77E12D223A8BC30081421C /* CountUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF77E12C223A8BC30081421C /* CountUITests.swift */; };
+		CFBB7513223A94C3007DA8EE /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = CFBB7512223A94C3007DA8EE /* icon.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		CF77E128223A8BC30081421C /* CountUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CountUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CF77E12C223A8BC30081421C /* CountUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountUITests.swift; sourceTree = "<group>"; };
 		CF77E12E223A8BC30081421C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CFBB7512223A94C3007DA8EE /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				CF77E10C223A8BC10081421C /* AppDelegate.swift */,
 				CF77E10E223A8BC10081421C /* ViewController.swift */,
 				CF77E110223A8BC10081421C /* Main.storyboard */,
+				CFBB7512223A94C3007DA8EE /* icon.png */,
 				CF77E113223A8BC30081421C /* Assets.xcassets */,
 				CF77E115223A8BC30081421C /* LaunchScreen.storyboard */,
 				CF77E118223A8BC30081421C /* Info.plist */,
@@ -229,6 +232,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CFBB7513223A94C3007DA8EE /* icon.png in Resources */,
 				CF77E117223A8BC30081421C /* LaunchScreen.storyboard in Resources */,
 				CF77E114223A8BC30081421C /* Assets.xcassets in Resources */,
 				CF77E112223A8BC10081421C /* Main.storyboard in Resources */,
